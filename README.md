@@ -1,2 +1,2 @@
-# c-
-Estos son todos los ejercicios realizados durante el primer año del grado superior
+# cSharp
+Estos son algunosn de los ejercicios realizados durante el primer año del grado superior
